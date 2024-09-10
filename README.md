@@ -75,7 +75,7 @@ Open http://localhost:3000 in your browser.<br>
 Register a new account or log in with an existing one.<br>
 Join chat rooms and start messaging in real-time.<br>
 Contributing<br>
-Feel free to open issues or submit pull requests to improve the application.<br>
+Feel free to open issues or submit pull requests to improve the application.
 
 
 
